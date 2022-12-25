@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on UltraScan III, [TeamUtils](https://www.patreon.com/teamutils)
-⌨️ I'm currently working for Global Clash Cup as Manager and Developer Lead
+<br>⌨️ I'm currently working for Global Clash Cup as Manager and Developer Lead<br>
 <br>🌱 I’m currently learning C++ & Rust<br>
 
 
